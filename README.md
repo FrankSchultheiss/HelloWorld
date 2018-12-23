@@ -1,2 +1,2 @@
 # HelloWorld
-This is the chaged message
+This is the changed message
